@@ -1,7 +1,7 @@
 #ifndef __IAP_CONFIG_H__
 #define __IAP_CONFIG_H__
 /* Define if use bkp save flag  -------------------------------*/
-#define USE_BKP_SAVE_FLAG     1
+#define USE_BKP_SAVE_FLAG     0
 
 /* Define the APP start address -------------------------------*/
 #define ApplicationAddress    0x8003000
